@@ -18,6 +18,11 @@
  width: 400px;
  padding: 25px 35px;
  text-align: center;
+ border-radius: 10px;
+}
+
+.music_div:hover{
+    cursor: pointer;
 }
 nav{
     display: flex;
